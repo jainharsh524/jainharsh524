@@ -51,8 +51,8 @@
 - 💪 **400+ LeetCode Problems Solved**
 
 <p>
-  <a href="https://leetcode.com/your-leetcode-username/" target="_blank">
-    <img src="https://cp-logo.vercel.app/leetcode/your-leetcode-username?logo=true&logoColor=white" alt="LeetCode Profile" />
+  <a href="https://leetcode.com/harshjain1729/" target="_blank">
+    <img src="https://cp-logo.vercel.app/leetcode/harshjain1729?logo=true&logoColor=white" alt="LeetCode Profile" />
   </a>
 </p>
 
