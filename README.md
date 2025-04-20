@@ -63,6 +63,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainharsh524&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+<img src = "https://streak-stats.demolab.com?user=jainharsh524&theme=react&hide_border=true" alt = "Streak stats"/>
+
+
+
 ---
 
 ## 📫 Connect With Me  
