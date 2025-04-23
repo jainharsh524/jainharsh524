@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **Final Year Computer Science Student at Bennett University**  
+- 🎓 **Final Year Computer Science Student**  
 - 💻 **Full Stack Developer**, specializing in **Backend Development**  
 - 🛠️ Problem-solver with a passion for building scalable and efficient systems  
 - 💡 Constantly exploring new tech stacks and frameworks
