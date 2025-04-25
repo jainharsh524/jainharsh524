@@ -64,7 +64,10 @@
 </p>
 
 <p align="center">
-<img src = "https://streak-stats.demolab.com?user=jainharsh524&theme=react&hide_border=true" alt = "Streak stats"/>
+  <img src="https://streak-stats.demolab.com?user=jainharsh524&theme=react&hide_border=true" alt="Streak Stats" />
+</p>
+
+
 
 
 
