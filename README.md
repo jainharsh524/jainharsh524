@@ -48,7 +48,7 @@
 
 ## 📊 Problem Solving & Achievements  
 
-- 💪 **400+ LeetCode Problems Solved**
+- 💪 **200+ LeetCode Problems Solved**
 
 
 ---
