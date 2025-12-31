@@ -49,7 +49,7 @@
 
 ## 📊 Problem Solving & Achievements  
 
-- 💪 **200+ LeetCode Problems Solved**
+- 💪 **250+ LeetCode Problems Solved**
 
 
 ---
