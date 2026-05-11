@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 **M. Tech. CSE Student at IIT Kharagpur**
-- 👨‍💻 **Ex-Intern @Neptune Services**
+- 👨‍💻 **Full Stack Intern @Raj Mandir Hypermarket**
 - 💻 **Full Stack Developer**, specializing in **Backend Development**  
 - 🛠️ Problem-solver with a passion for building scalable and efficient systems  
 - 💡 Constantly exploring new tech stacks and frameworks.
