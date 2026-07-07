@@ -1,17 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=180&section=header&text=Software%20Developer&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=IIT%20Kharagpur%20%C2%B7%20Backend%20%26%20Full%20Stack&descAlignY=55&descSize=16"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=M.+Tech.+CSE+%40+IIT+Kharagpur;Backend-focused+Full+Stack+Developer;Building+scalable+%26+efficient+systems)](https://git.io/typing-svg)
+# Software Developer
 
-<br/>
+**M. Tech. CSE · IIT Kharagpur · Backend & Full Stack**
+
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jainharsh524)
 [![Profile Views](https://komarev.com/ghpvc/?username=jainharsh524&label=Profile%20views&color=0ea5e9&style=for-the-badge)](https://github.com/jainharsh524)
 
 </div>
 
----
+
 
 ## About
 
@@ -19,17 +18,6 @@ I am an **M. Tech. student in Computer Science and Engineering** at **IIT Kharag
 
 As a **full stack developer with a backend focus**, I care about building systems that are reliable under load — clean APIs, thoughtful architecture, and code that is easy to maintain. I enjoy breaking down hard problems and shipping practical solutions. I am always exploring new tools, frameworks, and ideas through projects and continuous learning.
 
----
-
-## Currently
-
-| | |
-|:---|:---|
-| **Education** | M. Tech., Computer Science & Engineering — IIT Kharagpur |
-| **Role** | Full Stack Intern — Raj Mandir Hypermarket |
-| **Focus** | Backend development, scalable systems, full stack engineering |
-
----
 
 ## Focus Areas
 
@@ -41,7 +29,7 @@ As a **full stack developer with a backend focus**, I care about building system
   <img src="https://img.shields.io/badge/DSA-%26%20Problem%20Solving-FFA116?style=flat-square" alt="DSA and Problem Solving"/>
 </p>
 
----
+
 
 ## Problem Solving
 
@@ -50,10 +38,11 @@ As a **full stack developer with a backend focus**, I care about building system
 | Platform | Milestone |
 |:---:|:---:|
 | **LeetCode** | **400+** problems solved |
+| **TUF** | **200+** problems solved |
 
 </div>
 
----
+
 
 ## GitHub Analytics
 
@@ -66,7 +55,7 @@ As a **full stack developer with a backend focus**, I care about building system
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=jainharsh524&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
+
 
 ## Contribution Graph
 
@@ -76,7 +65,7 @@ As a **full stack developer with a backend focus**, I care about building system
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/jainharsh524/jainharsh524/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
----
+
 
 ## Connect
 
@@ -89,6 +78,6 @@ As a **full stack developer with a backend focus**, I care about building system
 
 </div>
 
----
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"/>
