@@ -35,9 +35,10 @@ As a **full stack developer with a backend focus**, I care about building system
 
 <div align="center">
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jainharsh524?theme=dark)](https://leetcode.com/jainharsh524)
+
 | Platform | Milestone |
 |:---:|:---:|
-| **LeetCode** | **400+** problems solved |
 | **TUF** | **200+** problems solved |
 
 </div>
@@ -80,4 +81,8 @@ As a **full stack developer with a backend focus**, I care about building system
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling"/>
+<div align="center">
+
+**Thanks for visiting — feel free to explore my repositories and connect.**
+
+</div>
