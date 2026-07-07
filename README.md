@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-400%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jainharsh524)
 [![Profile Views](https://komarev.com/ghpvc/?username=jainharsh524&label=Profile%20views&color=0ea5e9&style=for-the-badge)](https://github.com/jainharsh524)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## About
 
-I am an **M. Tech. student in Computer Science and Engineering** at **IIT Kharagpur**, working as a **Full Stack Intern** at **Raj Mandir Hypermarket**.
+I am an **M. Tech. student in Computer Science and Engineering** at **IIT Kharagpur**, worked as a **Full Stack Intern** at **Raj Mandir Hypermarket**.
 
 As a **full stack developer with a backend focus**, I care about building systems that are reliable under load — clean APIs, thoughtful architecture, and code that is easy to maintain. I enjoy breaking down hard problems and shipping practical solutions. I am always exploring new tools, frameworks, and ideas through projects and continuous learning.
 
@@ -49,7 +49,7 @@ As a **full stack developer with a backend focus**, I care about building system
 
 | Platform | Milestone |
 |:---:|:---:|
-| **LeetCode** | **250+** problems solved |
+| **LeetCode** | **400+** problems solved |
 
 </div>
 
@@ -83,9 +83,9 @@ As a **full stack developer with a backend focus**, I care about building system
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jainharsh524)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jainharsh1729)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshnareshjain1729@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/jainharsh524)
 
 </div>
 
